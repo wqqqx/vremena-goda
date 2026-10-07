@@ -1,1 +1,4 @@
-(https://github.com/wqqqx/capture/blob/main/vg.png)
+
+
+<img src="vg.png" alt="Описание картинки" width="400">
+
