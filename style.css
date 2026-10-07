@@ -1,0 +1,55 @@
+#id1{
+    list-style-image: url(/icon.png);
+}
+#i3{
+    list-style-image: url(/123.png);
+}
+#i4{
+    list-style-image: url(/qw.png); 
+}
+#i5{
+    list-style-image: url(/boo.png);
+}
+#bl{
+    color: blue;
+    
+}
+#ye{
+    color: yellow;
+}
+#gr{
+    color: green;
+}
+#or{
+    color: rgb(224, 148, 5);
+}
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#or1{
+    list-style-image: url(/list.png);
+}
+#ye1{
+    list-style-image: url(/sun.png);
+}
+#b1{
+    list-style-image: url(/sneg.png);
+}
+#gr1{
+    list-style-image: url(/gr.png);
+}
+#div1{
+    background-color: rgb(216, 186, 148);
+}
+dt{
+    color: darkgreen;
+    padding-bottom: 10px;
+}
+dd{
+    padding-bottom: 10px;
+}
+dl{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 40px;
+}
