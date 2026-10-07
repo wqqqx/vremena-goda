@@ -1,4 +1,4 @@
+![Иллюстрация к проекту](https://github.com/wqqqx/capture/blob/main/vg.jpeg)
 
 
-<img src="vg.png" alt="Описание картинки" width="400">
 
