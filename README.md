@@ -1,4 +1,4 @@
-![Иллюстрация к проекту](https://github.com/wqqqx/capture/blob/main/vg.jpeg)
+![Иллюстрация к проекту](https://github.com/wqqqx/capture/blob/main/capture.png)
 
 
 
